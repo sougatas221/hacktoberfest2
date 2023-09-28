@@ -2755,6 +2755,13 @@
 - Bio: Computer Science student
 - GitHub: [oladelewonder](https://github.com/oladelewonder)
 
+#### Name: [Sougata](https://github.com/sougatas221) 
+
+- Place: India
+- Bio: Student
+- GitHub: [Sougata](https://github.com/sougatas221)
+
+
 ### NAME: [Matheus T Koch](https://github.com/MatheusTKoch)
 
 - Place: Dois Irmãos, RS, Brazil
